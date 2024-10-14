@@ -2,7 +2,6 @@
 
 
 ## My Image 
-![alt text] (https://github.com/SoftwareMaintenanceEvolution/tutorial-1-kckc02/blob/profile-upload/my%20photo.jpg)
 Link to the uploaded image --> (https://github.com/SoftwareMaintenanceEvolution/tutorial-1-kckc02/blob/profile-upload/my%20photo.jpg)
 
 ## GitHub Profile
