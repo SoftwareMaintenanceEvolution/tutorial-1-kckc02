@@ -6,10 +6,9 @@ and Evolution course.
 I expect to learn a lot about modern software maintenance
 practices and how to work with legacy systems.
 
-![My Image](image.jpg) 
+## My Image
+![My Image](https://github.com/SoftwareMaintenanceEvolution/tutorial-1-kckc02/blob/profile-upload/my%20photo.jpg) 
 
-## My Image 
-Link to the uploaded image --> (https://github.com/SoftwareMaintenanceEvolution/tutorial-1-kckc02/blob/profile-upload/my%20photo.jpg)
 
 ## GitHub Profile
 You can view my personalized GitHub profile here. --> (https://github.com/kckc02/kckc02)
